@@ -27,3 +27,10 @@ context: provides a framework for generating relevant content
 input data: any piece of information provided as part of prompt
 output indicator: offers benchmarks for assessing attrubutes of the output
 
+recap: a prompt is any input or series of instructions used to produce a desired output
+these instrcutions help in directing the creativity of answers
+
+writing proper prompts: 
+four essential domains:
+clarity, context, precision, role-play/persona pattern
+
